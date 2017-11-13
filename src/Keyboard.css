@@ -72,7 +72,7 @@
 
 .keyboard-wrapper {
 	position:fixed;
-	bottom: 0;
+	right: 0;
 	z-index: 10000;
 	width: 700px;
 	left: calc(50% - 350px);
